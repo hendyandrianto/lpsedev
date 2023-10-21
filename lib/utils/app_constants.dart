@@ -1,7 +1,7 @@
 class AppConstants {
   static const String appname = 'DEV-LPSE';
 
-  static const String baseurl = 'https://lpse.claimgiveaway.com/api/';
+  static const String baseurl = 'https://lpse.skythinks.com/api/';
 
   static const String configurl = '${baseurl}config';
   static const String loginurl = '${baseurl}doLogin';
