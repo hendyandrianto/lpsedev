@@ -1,6 +1,6 @@
-# flutterlpsetest
+# Pre Test Mobile Dev
 
-A new Flutter project.
+CekLPSE Mobile Dev
 
 ## Getting Started
 
