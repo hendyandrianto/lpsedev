@@ -10,7 +10,7 @@ Task :
   src="dokumentasi/task.jpg"
   alt="TASK"
   title="TASK"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 
 Progress :
@@ -21,7 +21,7 @@ Progress :
   src="dokumentasi/splash.jpg"
   alt="SplashScreen"
   title="SplashScreen"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
   
 
 ##Login
@@ -39,7 +39,7 @@ Progress :
   src="dokumentasi/error_validasi.jpg"
   alt="error_validasi"
   title="error_validasi"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 
 ##Login Process
@@ -48,7 +48,7 @@ Progress :
   src="dokumentasi/proseslogin.jpg"
   alt="error_validasi"
   title="error_validasi"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 ##Dashboard
 
@@ -56,7 +56,7 @@ Progress :
   src="dokumentasi/dashboard.jpg"
   alt="dashboard"
   title="dashboard"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
 
 ##Logout
@@ -65,5 +65,5 @@ Progress :
   src="dokumentasi/logout.jpg"
   alt="logout"
   title="logout"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
