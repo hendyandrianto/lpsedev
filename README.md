@@ -6,7 +6,12 @@ CekLPSE Mobile Dev
 
 Task :
 
-![Alt text](dokumentasi/task.jpg "TASK")
+<img
+  src="dokumentasi/task.jpg"
+  alt="TASK"
+  title="TASK"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+
 
 Progress :
 
