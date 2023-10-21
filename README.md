@@ -3,6 +3,8 @@
 CekLPSE Mobile Dev
 
 ## Dokumentasi
+Untuk demo gunakan username : user
+
 
 Task :
 
