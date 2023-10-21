@@ -3,8 +3,9 @@
 CekLPSE Mobile Dev
 
 ## Dokumentasi
-Untuk demo gunakan username : user
-
+  ## Untuk demo gunakan username : user
+  ## API Menggunakan CI3
+  ## DATABASE POSTGRESQL
 
 Task :
 
