@@ -2,6 +2,9 @@
 
 CekLPSE Mobile Dev
 
+# APK Demo
+Untuk demo bisa download app difolder apk
+
 ## Dokumentasi
   - Untuk demo gunakan username : user
   - API Menggunakan CI3
